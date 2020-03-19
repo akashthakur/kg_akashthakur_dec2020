@@ -17,4 +17,4 @@ Summer Internship assessment for Kargo
 	- Code will return wrong input if you start or insert `$` in your string.
 		- `node main.js bar y$abcabc` will give wrong answer.
 		- `node main.js bar $abcabc` will throw error.
-	- Code will break if you end string with '\'
+	- Code will break if you end string with '\'.
